@@ -27,7 +27,7 @@ export default function Projects() {
             <div className="flex gap-4">
               <span className="bg-blue-500/20 text-blue-300 px-3 py-1 rounded-full text-sm">Dragula.js</span>
               <span className="bg-blue-500/20 text-blue-300 px-3 py-1 rounded-full text-sm">DevExpress</span>
-              <span className="bg-blue-500/20 text-blue-300 px-3 py-1 rounded-full text-sm">Javacript</span>
+              <span className="bg-blue-500/20 text-blue-300 px-3 py-1 rounded-full text-sm">JavaScript</span>
             </div>
           </motion.div>
 
