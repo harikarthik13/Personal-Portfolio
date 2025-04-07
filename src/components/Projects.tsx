@@ -20,7 +20,7 @@ export default function Projects() {
             transition={{ duration: 0.5 }}
             className="bg-white/5 rounded-xl p-6 hover:bg-white/10 transition-colors"
           >
-            <h3 className="text-2xl font-bold mb-4">PENTAGON</h3>
+            <h3 className="text-2xl font-bold mb-4">Business Analytics Tools</h3>
             <p className="text-gray-300 mb-4">
               A client-focused data management platform with drag-and-drop UI built using Dragula.js and DevExpress for real-time visualization.
             </p>
@@ -37,7 +37,7 @@ export default function Projects() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="bg-white/5 rounded-xl p-6 hover:bg-white/10 transition-colors"
           >
-            <h3 className="text-2xl font-bold mb-4">Synergy – ERP System</h3>
+            <h3 className="text-2xl font-bold mb-4">Enterprise Resource Planning System</h3>
             <p className="text-gray-300 mb-4">
               A centralized recruitment and resource management tool using jQuery and SQL Server, with rich UI and dynamic modules.
             </p>
