@@ -64,7 +64,7 @@ export default function Footer() {
             <div className="grid grid-cols-2 gap-2">
               <span className="bg-white/5 px-3 py-1 rounded text-sm text-gray-300">Html/CSS</span>
               <span className="bg-white/5 px-3 py-1 rounded text-sm text-gray-300">Javascript</span>
-              <span className="bg-white/5 px-3 py-1 rounded text-sm text-gray-300">React.js</span>
+              <span className="bg-white/5 px-3 py-1 rounded text-sm text-gray-300">React.js/Redux</span>
               <span className="bg-white/5 px-3 py-1 rounded text-sm text-gray-300">Node.js</span>
               <span className="bg-white/5 px-3 py-1 rounded text-sm text-gray-300">MongoDB</span>
               <span className="bg-white/5 px-3 py-1 rounded text-sm text-gray-300">SQL Server</span>
