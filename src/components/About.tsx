@@ -37,7 +37,7 @@ export default function About() {
             <div className="grid grid-cols-2 gap-4">
               <div className="bg-white/5 p-4 rounded-lg">
                 <h3 className="font-semibold mb-2">Frontend</h3>
-                <p className="text-gray-400">React.js, JavaScript</p>
+                <p className="text-gray-400">React.js, Redux, JavaScript</p>
               </div>
               <div className="bg-white/5 p-4 rounded-lg">
                 <h3 className="font-semibold mb-2">Backend</h3>
