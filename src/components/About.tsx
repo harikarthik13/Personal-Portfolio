@@ -27,7 +27,7 @@ export default function About() {
             </h2>
             <p className="text-gray-300 mb-6">
               I'm a Full Stack Developer with over 2 years of experience building scalable web applications. 
-              I specialize in JavaScript, React.js, Node.js, MongoDB, and SQL Server.
+              I specialize in JavaScript, React.js/Redux, Node.js, MongoDB, and SQL Server.
             </p>
             <p className="text-gray-300 mb-6">
               Currently working at G2 TechSoft as a Software Engineer, where I contribute to full-stack projects 
